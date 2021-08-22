@@ -1,0 +1,28 @@
+.featured-movie {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    padding: 200px;
+   
+
+    
+    color: #fff;
+  }
+   
+.featured-movie-text {
+   text-align: left;
+   line-height: 200%;
+   
+}
+
+.button{
+    background-color: transparent;
+    color: white;
+    border: 2px solid #555555;
+    border-radius: 5px;
+  
+}
+.button:hover {
+    background-color: #555555;
+}
+
