@@ -1,0 +1,23 @@
+.App {
+  background-color: #1d1d1d;
+}
+
+.movie-list,
+.tvshow-list {
+  display: flex;
+  flex-flow: row
+    wrap;
+  justify-content: flex-start;
+  padding: 12px;
+}
+.section-title {
+  width: 100%;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #fff;
+  padding: 40px
+    0
+    24px
+    0;
+}
